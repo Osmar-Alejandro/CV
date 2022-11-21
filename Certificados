@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Certificaciones</title>
+</head>
+<body>
+	<main>
+		<section>
+		<img src="./imagen/amazon.jpg"  width="800" height="600"/>
+		<img src="./imagen/certificado.png"  width="800" height="600"/ />
+		<img src="./imagen/coursera.jpg"  width="800" height="600"/  />
+		<img src="./imagen/scrum.jpg"  width="800" height="600"/ />
+		</section>
+</body>
